@@ -1,0 +1,28 @@
+body{
+    margin:10px;
+    padding:10px;
+   
+} 
+nav{
+    font-size: 28px;
+    width: 100%;
+    background-color: green;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav li{
+    display:inline-block;
+    margin: 0 8px;
+}
+nav a{
+    text-decoration:none;
+}
+.logo{
+    margin:30px 10px;
+
+}
+
+nav a:hover{
+    color:black;
+}
